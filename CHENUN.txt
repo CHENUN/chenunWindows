@@ -2,3 +2,4 @@ HELLO CHENUN very handsome
 chenun very good
 very
 cuole 是错了，操作错了
+在分支chenun1上添加这一句话
