@@ -3,3 +3,4 @@ chenun very good
 very
 cuole 是错了，操作错了
 在分支chenun1上添加这一句话
+chenun1---1 创建远程分支 git push origin chenun1
